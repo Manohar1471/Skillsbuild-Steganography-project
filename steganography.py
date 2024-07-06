@@ -48,7 +48,7 @@ def decode_image(img_path):
 
     return message
 
-# Example usage
+# Usage
 if __name__ == "__main__":
     # Encode a message into an image
     encode_image("input_image.png", "Hello, world!", "encoded_image.png")
